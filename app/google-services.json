@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336359503938",
+    "project_id": "unihack21",
+    "storage_bucket": "unihack21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336359503938:android:ac5b4abc7afca5a4f3d5db",
+        "android_client_info": {
+          "package_name": "me.ishanjoshi.unihack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336359503938-as0mo6hsk1qg4vbj10271ek2lubcg0jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5AG2JQ5wHdYt4lnNutOdU3cEFq18vgXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336359503938-as0mo6hsk1qg4vbj10271ek2lubcg0jo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

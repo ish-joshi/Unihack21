@@ -1,0 +1,4 @@
+include ':watchapp'
+include ':app:watchapp'
+include ':app'
+rootProject.name = "Unihack"

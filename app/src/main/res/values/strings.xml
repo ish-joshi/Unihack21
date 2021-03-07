@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Unihack</string>
+    <string name="greeting_text">Good morning</string>
+    <string name="season_stat_heading">🔢 Season stats</string>
+    <string name="coach_ar">Coach in AR</string>
+    <string name="ar_coach_label">Augmented Coaching</string>
+    <string name="managment_label">Manage</string>
+    <string name="manage_players">Players</string>
+    <string name="title_activity_all_players">AllPlayersActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="manage_games">Games</string>
+    <string name="add_note">Add Note</string>
+</resources>
